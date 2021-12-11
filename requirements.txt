@@ -1,0 +1,8 @@
+gender_guesser
+matplotlib
+streamlit-nightly
+numpy
+pandas
+xmltodict
+urllib3
+seaborn
